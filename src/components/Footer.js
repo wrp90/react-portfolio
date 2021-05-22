@@ -1,0 +1,17 @@
+import React, { Component } from "react";
+
+class Footer extends Component {
+    render() {
+        return (
+            <div>
+                <footer id="sticky-footer" class="footer py-2 bg-secondary text-white-50">
+                    <div class="container text-center">
+                        <small>Copyright &copy; William Papp</small>
+                    </div>
+                </footer>
+            </div>
+        )
+    }
+}
+
+export default Footer;
