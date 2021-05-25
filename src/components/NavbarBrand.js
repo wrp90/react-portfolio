@@ -3,9 +3,9 @@ import React, { Component } from "react";
 class NavbarBrand extends Component {
   render() {
     return (
-      <div>
-          <span class="navbar-brand mb-0 h1">William Papp</span>
-      </div>
+
+      <span className="navbar-brand mb-0 h1" href="/">William Papp</span>
+
     )
   }
 }

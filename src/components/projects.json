@@ -2,42 +2,42 @@
     {
       "id": 1,
       "projectURL": "https://ancient-hollows-23369.herokuapp.com/",
-      "projectImage": "/assets/images/project2.png",
+      "projectImage": "assets/imgs/project2.png",
       "projectName": "Vaccine Tracker",
       "projectRepo":"https://github.com/wrp90/Vaccination_Tracker"
     },
     {
       "id": 2,
       "projectURL": "https://fathomless-shore-15388.herokuapp.com/",
-      "projectImage": "assets/assets/images/notetaker.png",
+      "projectImage": "assets/imgs/notetaker.png",
       "projectName": "Note Taker",
       "projectRepo": "https://github.com/wrp90/NoteTakerWP"
     },
     {
       "id": 3,
       "projectURL": "https://wrp90.github.io/PasswordGenWP/",
-      "projectImage": "assets/images/passGen.png",
+      "projectImage": "assets/imgs/passGen.png",
       "projectName": "Password Generator",
       "projectRepo": "https://github.com/wrp90/PasswordGenWP"
     },
     {
       "id": 4,
       "projectURL": "https://wrp90.github.io/WorkDaySchedulerWP/",
-      "projectImage": "assets/images/workday.png",
+      "projectImage": "assets/imgs/workday.png",
       "projectName": "Work Day Scheduler",
       "projectRepo": "https://github.com/wrp90/WorkDaySchedulerWP"
     },
     {
       "id": 5,
       "projectURL": "https://wrp90.github.io/WorkDaySchedulerWP/",
-      "projectImage": "assets/images/workday.png",
+      "projectImage": "assets/imgs/workday.png",
       "projectName": "Work Day Scheduler",
       "projectRepo": "https://github.com/wrp90/WorkDaySchedulerWP"
     },
     {
       "id": 6,
       "projectURL": "https://wrp90.github.io/WeatherDashboardWP/",
-      "projectImage": "assets/images/weather.png",
+      "projectImage": "assets/imgs/weather.png",
       "projectName": "Weather App",
       "projectRepo": "https://github.com/wrp90/WeatherDashboardWP"
     }
