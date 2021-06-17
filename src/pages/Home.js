@@ -14,9 +14,7 @@ function Home(props) {
                     <p className="text"></p>
                 </main>
                 <section>
-                    <ul className="text-center">
-                        <li className='text-center'><a href="./assets/WilliamPappResumeUPDATED.docx">Resume</a></li>
-                    </ul>
+                    
                 </section>
 
             </article>
