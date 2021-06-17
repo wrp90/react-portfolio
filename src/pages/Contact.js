@@ -9,7 +9,7 @@ function Contact() {
           <li><a href="https://www.linkedin.com/in/will-papp-5ab10079/">Linkedin</a></li>
           <li><a href="https://github.com/wrp90">Github</a></li>
           <li><a href="mailto: wpapp90@gmail.com">Email: wpapp90@gmail.com</a></li>
-          <li className='text-center'><a href="./assets/WilliamPappResumeUPDATED.docx">Resume</a></li>
+          <li className='text-center'><a href="./assets/resume.docx">Resume</a></li>
         </ul>
       </div>
     </section>
