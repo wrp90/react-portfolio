@@ -17,8 +17,8 @@ function Portfolio() {
     };
     return (
         <div>
-            <h1 className="text-primary display-4"><strong>Portfolio</strong></h1>
-            <div className="row justify-content-center m-2">
+            <h1 className="text-white display-4"><strong>Portfolio</strong></h1>
+            <div className="text-white row justify-content-center m-2">
                 {projectsList()}
             </div >
         </div>

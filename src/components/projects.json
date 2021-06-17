@@ -29,13 +29,6 @@
     },
     {
       "id": 5,
-      "projectURL": "https://wrp90.github.io/WorkDaySchedulerWP/",
-      "projectImage": "assets/imgs/workday.png",
-      "projectName": "Work Day Scheduler",
-      "projectRepo": "https://github.com/wrp90/WorkDaySchedulerWP"
-    },
-    {
-      "id": 6,
       "projectURL": "https://wrp90.github.io/WeatherDashboardWP/",
       "projectImage": "assets/imgs/weather.png",
       "projectName": "Weather App",
